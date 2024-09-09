@@ -65,3 +65,4 @@ Welcome to the E-Commerce React App! This project is a modern e-commerce applica
 
 - **Email**: <a href="mailto:bekzatilyasov2704@gmail.com">bekzatilyasov2704@gmail.com</a>
 - **GitHub**: <a href="https://github.com/bekzatilyasov2004">bekzatilyasov2004</a>
+
