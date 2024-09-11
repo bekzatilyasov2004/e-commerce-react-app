@@ -1,4 +1,4 @@
-# E-Commerce React App
+## E-Commerce React App
 
 Welcome to the E-Commerce React App! This project is a modern e-commerce application built with React, Chakra UI, and Zustand for state management. It features product listings, a shopping cart, and detailed product views.
 
