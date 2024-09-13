@@ -1,4 +1,4 @@
-import React from 'react';
+ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import useProductStore from '../store/store';
 import { FaArrowLeft } from 'react-icons/fa';
